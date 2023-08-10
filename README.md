@@ -1,4 +1,4 @@
-<div>
+<div display=flex>
   <h1 align=center> Vinicius Leme Soares</h1>
     <h2 align=center>
       Welcome to my profile! 😅
@@ -16,24 +16,22 @@
     <h2 align=center>
       --My Stack--
     </h2>
-  <div display=flex justify-content=center>
-    <div align=left>
-      <p>
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      </p>
-      <p>
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        <img heigh=60px width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      </p>
-    </div>
-    <div align=right>
-      <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuslsoares&show_icons=true&locale=en&layout=compact" alt="viniciuslsoares" /></p>
-    </div>
+  <div align=center display=flex justify-content=space-evenly>
+      <div>
+        <p width=50%>
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          </p> 
+          <p width=50%>
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <img heigh=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          </p>
+        </div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuslsoares&show_icons=true&locale=en&layout=compact" alt="viniciuslsoares" />
   </div>
 </div>
 
