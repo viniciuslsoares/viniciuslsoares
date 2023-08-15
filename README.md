@@ -8,7 +8,7 @@
             <h4>
                 <p>💻Computer Engineering student at Unicamp, class of 2022, currently in the fourth semester</p>
                 <p>🎓Degree in Electronics from COTUCA, Technical College of Campinas</p>
-                <p>📚Take pleasure in studying a variety of subjects and engaging with a wide range of reading materia </p>
+                <p>📚Take pleasure in studying a variety of subjects and engaging with a wide range of reading material </p>
                 <p>🤖Very interested in the fields of automation and Artificial Intelligence</p>
                 <p>📖Currently studying 
                 <a href=“https://www.dac.unicamp.br/portal/caderno-de-horarios/2021/1/S/G/IC/MC404“>MC404</a>
