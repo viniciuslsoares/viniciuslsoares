@@ -10,7 +10,7 @@
                 <p>🎓Degree in Electronics from COTUCA, Technical College of Campinas</p>
                 <p>📚Take pleasure in studying a variety of subjects and engaging with a wide range of reading material </p>
                 <p>🤖Very interested in the fields of automation and Artificial Intelligence</p>
-                <p>📖Currently studying algorithm analysis and design, logic circuits, and database (SQL)</p>
+                <p>📖Currently enrolled in a research project about SSL applied to seismic data</p>
                 <p>🔗 https://www.linkedin.com/in/viniciuslemesoares/ 🔗</p>
             </h4>
             <p>**In addition to future projects, I will be posting codes related to my undergraduate courses and their respective assignments**</p>
