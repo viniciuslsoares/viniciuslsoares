@@ -28,7 +28,7 @@
                         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
                         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
                         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-                        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+                        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
                     </p>
                 </div>
                 <div margin="10px">
