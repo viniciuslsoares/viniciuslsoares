@@ -6,11 +6,11 @@
                 Welcome to my profile! 😅
             </h2>
             <h4>  
-                <p>💻Computer Engineering student at Unicamp, class of 2022, currently in the fourth semester</p>
+                <p>💻Computer Engineering student at Unicamp, class of 2022, currently in the eighth semester</p>
                 <p>🎓Degree in Electronics from COTUCA, Technical College of Campinas</p>
                 <p>📚Take pleasure in studying a variety of subjects and engaging with a wide range of reading material </p>
                 <p>🤖Very interested in the fields of automation and Artificial Intelligence</p>
-                <p>📖Currently enrolled in a research project about SSL applied to seismic data</p>
+                <p>📖Currently enrolled in a research project about SSL applied on seismic data</p>
                 <p>🔗 https://www.linkedin.com/in/viniciuslemesoares/ 🔗</p>
             </h4>
             <p>**In addition to future projects, I will be posting codes related to my undergraduate courses and their respective assignments**</p>
