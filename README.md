@@ -28,8 +28,9 @@
                         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
                         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
                         <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-                        <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+                        <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
                     </p>
+                    
                 </div>
                 <div margin="10px">
                     <img height=150px margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuslsoares&show_icons=true&locale=en&layout=compact" alt="viniciuslsoares" />
